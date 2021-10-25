@@ -1,0 +1,20 @@
+.container {
+
+}
+
+.rating {
+    display: flex;
+    align-items: center;
+}
+
+.count {
+    font-size: 12px;
+    color: #818d99;
+    line-height: 12px;
+    margin-left: 4px;
+}
+
+.sample {
+    font-size: 12px;
+    line-height: 16px;
+}
